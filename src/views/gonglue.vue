@@ -2,9 +2,9 @@
     <div class="pic-container">
         <div class="total">
             <!-- 原有的非跳转图片保持不变 -->
-            <img src="/img/旅游攻略/total.jpg">
+            <img src="https://pic.ichengzii.com/LightPicture/2024/06/18b8c72e8c55d8a5.jpg">
             <div class="spacer"></div>
-            <img src="/img/旅游攻略/food.jpg">
+            <img src="https://pic.ichengzii.com/LightPicture/2024/06/cea839e6cc9fab0a.jpg">
             <div class="spacer"></div>
         </div>
         <div class="list">
@@ -26,11 +26,11 @@ export default {
         return {
             // 假设你有一个数组来存储图片信息，包括URL和跳转链接
             listImages: [
-                { url: '/img/旅游攻略/one.jpg', topUrl: 'https://you.ctrip.com/sight/luoyang198/8865.html', bottomUrl: 'https://you.ctrip.com/sight/luanchuan1930/9348.html' },
-                { url: '/img/旅游攻略/two.jpg', topUrl: 'https://you.ctrip.com/sight/luoyang198/8940.html', bottomUrl: 'https://you.ctrip.com/sight/luoyang198/77546.html' },
-                { url: '/img/旅游攻略/three.jpg', topUrl: 'https://you.ctrip.com/sight/luoyang198/2509137.html#ctm_ref=www_hp_bs_lst', bottomUrl: 'https://you.ctrip.com/sight/luoyang198/47076.html' },
-                { url: '/img/旅游攻略/four.jpg', topUrl: 'https://you.ctrip.com/sight/luanchuan1930/57632.html#ctm_ref=www_hp_bs_lst', bottomUrl: 'https://you.ctrip.com/sight/xinan2315/135601.html#ctm_ref=www_hp_bs_lst' },
-                { url: '/img/旅游攻略/five.jpg', topUrl: 'https://you.ctrip.com/sight/songcounty1445115/9324.html#ctm_ref=www_hp_bs_lst', bottomUrl: 'https://you.ctrip.com/sight/luoyang198/5253398.html#ctm_ref=www_hp_bs_lst' },
+                { url: 'https://pic.ichengzii.com/LightPicture/2024/06/891f52f62b40cd0f.jpg', topUrl: 'https://you.ctrip.com/sight/luoyang198/8865.html', bottomUrl: 'https://you.ctrip.com/sight/luanchuan1930/9348.html' },
+                { url: 'https://pic.ichengzii.com/LightPicture/2024/06/29df23a9b64bc2c3.jpg', topUrl: 'https://you.ctrip.com/sight/luoyang198/8940.html', bottomUrl: 'https://you.ctrip.com/sight/luoyang198/77546.html' },
+                { url: 'https://pic.ichengzii.com/LightPicture/2024/06/ad69878bf29d2948.jpg', topUrl: 'https://you.ctrip.com/sight/luoyang198/2509137.html#ctm_ref=www_hp_bs_lst', bottomUrl: 'https://you.ctrip.com/sight/luoyang198/47076.html' },
+                { url: 'https://pic.ichengzii.com/LightPicture/2024/06/2df0373aa665896b.jpg', topUrl: 'https://you.ctrip.com/sight/luanchuan1930/57632.html#ctm_ref=www_hp_bs_lst', bottomUrl: 'https://you.ctrip.com/sight/xinan2315/135601.html#ctm_ref=www_hp_bs_lst' },
+                { url: 'https://pic.ichengzii.com/LightPicture/2024/06/c03313dacd7b3bdb.jpg', topUrl: 'https://you.ctrip.com/sight/songcounty1445115/9324.html#ctm_ref=www_hp_bs_lst', bottomUrl: 'https://you.ctrip.com/sight/luoyang198/5253398.html#ctm_ref=www_hp_bs_lst' },
                 // ... 其他图片数据
             ],
         };
