@@ -61,7 +61,7 @@ setInterval(updateTime, 1000);
     /* margin-top: 3%; */
     margin-bottom: 15px;
     margin-left: 55px;
-    margin-right: 1380px;
+    margin-right: 1371px;
     color: black;
     /* 或其他颜色，取决于背景图片的基调 */
     background-color: rgba(235, 235, 235, 0.425);
