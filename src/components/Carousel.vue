@@ -28,10 +28,10 @@ const paginationOptions = {
     clickable: true,
 };
 const images = [
-    { src: 'https://pic.ichengzii.com/LightPicture/2024/06/daf7795c475d3744.jpg', alt: '白马寺' },
-    { src: 'https://pic.ichengzii.com/LightPicture/2024/06/700345e2dfe161bd.jpg', alt: '老君山' },
-    { src: 'https://pic.ichengzii.com/LightPicture/2024/06/d3044fda9510b0f2.jpg', alt: '丽景门' },
-    { src: 'https://pic.ichengzii.com/LightPicture/2024/06/6142dce89ee8c4fe.jpg', alt: '龙门石窟' },
+    { src: 'https://img.picui.cn/free/2024/06/12/66698dddc2c78.jpg', alt: '白马寺' },
+    { src: 'https://img.picui.cn/free/2024/06/12/66698ddddda15.jpg', alt: '老君山' },
+    { src: 'https://img.picui.cn/free/2024/06/12/66698ddddd62e.jpg', alt: '丽景门' },
+    { src: 'https://img.picui.cn/free/2024/06/12/66698dddc2f85.jpg', alt: '龙门石窟' },
     // 更多图片...
 ];
 const showPagination = true; // 是否显示分页器
